@@ -1,5 +1,5 @@
 {
-	"name": "vue-svg-inline-loader",
+	"name": "vue-svg-inline-loader-corejs3",
 	"version": "1.5.0",
 	"description": "Webpack loader used for inline replacement of SVG images with actual content of SVG files in Vue projects.",
 	"main": "dist/index.min.js",
@@ -19,7 +19,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/oliverfindl/vue-svg-inline-loader.git"
+		"url": "git+https://github.com/u1-liquid/vue-svg-inline-loader-corejs3.git"
 	},
 	"keywords": [
 		"vue",
@@ -41,9 +41,9 @@
 	"author": "Oliver Findl",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/oliverfindl/vue-svg-inline-loader/issues"
+		"url": "https://github.com/u1-liquid/vue-svg-inline-loader-corejs3/issues"
 	},
-	"homepage": "https://github.com/oliverfindl/vue-svg-inline-loader#readme",
+	"homepage": "https://github.com/u1-liquid/vue-svg-inline-loader-corejs3#readme",
 	"dependencies": {
 		"@babel/runtime": "^7.9.2",
 		"core-js": "^3.6.5",
